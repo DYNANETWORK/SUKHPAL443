@@ -3,9 +3,9 @@
 
 ### About 🙋🏻‍♂️
 ```python
-Name = "LEGEND X"
-who_i_am = ['Coding':  '❣️']
-Country = "🇮🇳"
+Name = "SUKHPAL443"
+TELEGRAM = ['SUKHI_MR_HACKER':  '❣️']
+Country = "INDIA"
 ```
 #### 
 [![telegram badge](https://img.shields.io/badge/@SUKHI_MR_HACKER-30302f?style=for-the-badge&logo=telegram)](https://t.me/SUKHI_MR_HACKER)
