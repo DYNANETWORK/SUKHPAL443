@@ -1,4 +1,14 @@
 ### Hi there 👋
+### ⚡ HELLO ⚡
+
+### About 🙋🏻‍♂️
+```python
+Name = "LEGEND X"
+who_i_am = ['Coding':  '❣️']
+Country = "🇮🇳"
+```
+#### 
+[![telegram badge](https://img.shields.io/badge/@SUKHI_MR_HACKER-30302f?style=for-the-badge&logo=telegram)](https://t.me/SUKHI_MR_HACKER)
 
 <!--
 **SUKHPAL443/SUKHPAL443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄I'm Still Learning Git & GitHub
+- ☀️Python Lover
+- ⚜️Most Of My Repositories Are For Telegram
+
+<h4 align="center"><b>My GitHub Stats💛</b></h4>
+
+![SUKHPAL443 Git Stats](https://github-readme-stats.vercel.app/api?username=SUKHPAL443&include_all_commits=true&count_private=true&theme=highcontrast)
