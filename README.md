@@ -4,7 +4,7 @@
 ### About 🙋🏻‍♂️
 ```python
 Name = "SUKHPAL443"
-TELEGRAM = ['MAMBA_SYAT':  '❣️']
+TELEGRAM = ['MAMBA_STAR':  '❣️']
 Country = "INDIA, PUNJAB"
 ```
 #### 
