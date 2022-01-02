@@ -4,11 +4,11 @@
 ### About 🙋🏻‍♂️
 ```python
 Name = "SUKHPAL443"
-TELEGRAM = ['SUKHI_MR_HACKER':  '❣️']
-Country = "INDIA"
+TELEGRAM = ['MAMBA_SYAT':  '❣️']
+Country = "INDIA, PUNJAB"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/@SUKHI_MR_HACKER-30302f?style=for-the-badge&logo=telegram)](https://t.me/SUKHI_MR_HACKER)
+[![telegram badge](https://img.shields.io/badge/@SUKHI_MR_HACKER-30302f?style=for-the-badge&logo=telegram)](https://t.me/MAMBA_STAR)
 
 <!--
 **SUKHPAL443/SUKHPAL443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
