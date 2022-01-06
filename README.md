@@ -8,7 +8,7 @@ TELEGRAM = ['MAMBA_STAR':  '❣️']
 Country = "INDIA, PUNJAB"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/@MAMBA_STAR-30302f?style=for-the-badge&logo=telegram)](https://t.me/MAMBA_STAR)
+[![telegram badge](https://img.shields.io/badge/MAMBA_STAR-30302f?style=for-the-badge&logo=telegram)](https://t.me/MAMBA_STAR)
 
 <!--
 **SUKHPAL443/SUKHPAL443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
