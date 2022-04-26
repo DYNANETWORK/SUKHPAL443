@@ -4,11 +4,11 @@
 ### About 🙋🏻‍♂️
 ```python
 Name = "SUKHPAL443"
-TELEGRAM = ['BLACKMAMBA_OFFICIAL':  '❣️']
+TELEGRAM = ['BLACK MAMBA':  '❣️']
 Country = "INDIA, PUNJAB"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/BLACKMAMBA_OFFICIAL-30302f?style=for-the-badge&logo=telegram)](https://t.me/BLACKMAMBA_OFFICIAL)
+[![telegram badge](https://img.shields.io/badge/BLACKMAMBA-30302f?style=for-the-badge&logo=telegram)](https://t.me/BLACK_MAMBA_RETURNS_OP)
 
 <!--
 **SUKHPAL443/SUKHPAL443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
