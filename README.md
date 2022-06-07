@@ -1,4 +1,5 @@
 <h2 align="center"><b>Personal Information 👨‍💻</b></h2>
+# PROGRAMMING IS MY LOVE AND PASSION
 
 
 <p align='Middle'><a href='https://t.me/DYNA_OPTIMISE><img src='https://te.legra.ph/file/329cff91cfe957c848cc7.jpg' width='750"'></a></p>
